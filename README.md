@@ -224,3 +224,9 @@ Also you need to create an access key:
 ```
 
 A Build Scan may contain identifiable information. See the Terms of Use https://gradle.com/legal/terms-of-use/.
+
+#### SSB local
+
+```bash
+sdk use java 17.0.15-tem
+```
